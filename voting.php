@@ -243,9 +243,10 @@ if ($totalVotes > 0) {
 
     <form method="POST">
         <button class="reset" name="reset">
-            Reset Voting
+            Reset Voting ( you can start from first )
         </button>
     </form>
+    <h2> this is just a prototype</h2>
 
 </div>
 
